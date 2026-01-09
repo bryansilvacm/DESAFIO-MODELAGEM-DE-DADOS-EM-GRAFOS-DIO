@@ -31,6 +31,7 @@ O desafio consiste em modelar as entidades e os relacionamentos entre elas, e de
    <img width="898" height="670" alt="image" src="https://github.com/user-attachments/assets/6cfba59f-c9ab-4897-ae78-98164bbfdb9c" />
    
    -Pertence a:
+   
    <img width="898" height="670" alt="image" src="https://github.com/user-attachments/assets/ab531799-b0f9-4ba4-900e-59bf1e5026fb" />
 
 
